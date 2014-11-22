@@ -1,4 +1,4 @@
-#Python IDLE Theme Guide for Beginners (Windows 7)
+#Python IDLE Theme Guide for Beginners (Windows)
 
 Here's a <a href="https://raw.githubusercontent.com/Xkr1ptikX/images/master/new%20highlighting.png"  target="_blank">Preview</a> of the end product.
 
